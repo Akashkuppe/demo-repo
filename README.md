@@ -5,4 +5,4 @@ like
 code
 what is description
 how to use that code
-some components
+some component
